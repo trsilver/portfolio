@@ -33,3 +33,19 @@
 				<BR>Sketch
 <BR>
   <BR><B>Gauge Sites:</b>
+	  <ul><li>GMGSE</li>
+		  <li>Ally Legal</li>
+		  <li>Amy's Laundry</li>
+		  <li>APS (Not live yet)</li>
+		  <li>ASE Junk</li>
+		  <li>Atlantic Blue</li>
+		  <li>Elevated Tree Care</li>
+		  <li>Hive Bake Shop</li>
+		  <li>Icons of Animation</li>
+		  <li>Kollman Law</li>
+		  <li>MPS Legal</li>
+		  <li>PAVE Capital</li>
+		  <li>New Gauge Site (Not live yet)</li>
+		  <li>Ride Boldly</li>
+		  <li>Storm Tech Roofers</li>
+		  <li>White Oak Home Group</li></ul>
