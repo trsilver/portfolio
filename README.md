@@ -32,7 +32,7 @@
 			<BR>UX Design
 				<BR>Sketch
 <BR>
-  <BR><B>Gauge Sites:</b>
+  <BR><B>Gauge Sites:</b><BR>
 	  <ul><li>GMGSE</li>
 		  <li>Ally Legal</li>
 		  <li>Amy's Laundry</li>
