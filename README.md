@@ -32,11 +32,3 @@
 			<BR>UX Design
 				<BR>Sketch
 <BR>
-  <BR><B>Gauge Sites:</b><BR>
-Ally
-Hive
-GMGSE
-Icons
-Stormtech
-Kollman
-
