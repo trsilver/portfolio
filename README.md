@@ -1,5 +1,5 @@
 <h2>portfolio contents:</h2>
-<sup>figure out best order, newest to oldest</sup>
+<sup>figure out best order, newest to oldest. need 8 more spots on portfolio grid.</sup>
 <BR><BR>EZShield Style Guide
 <BR>UX Design, Graphic Design, Branding.
 <BR>Invision Design System Manager, Adobe Photoshop, & Sketch
