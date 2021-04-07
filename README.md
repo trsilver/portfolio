@@ -11,9 +11,7 @@
 <BR>UX Design - Web & Mobile
 <BR>Sketch
 <BR>
-<BR>IdentityForce Gift Subscriptions
-															<BR>UX Design - Web
-																<BR>Adobe XD
+
 <BR>
  <BR>IdentityForce Mobile App Registration</b></a>
 															<BR>UX Design - Mobile
